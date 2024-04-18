@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/icon-1728617_1280.jpg</file>
+        <file>image/icon-1728616_1280.jpg</file>
+        <file>image/sample-3s.wav</file>
+        <file>image/o-privet.mp3</file>
+    </qresource>
+</RCC>
